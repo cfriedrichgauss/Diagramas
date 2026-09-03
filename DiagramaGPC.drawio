@@ -1,0 +1,291 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36">
+  <diagram name="Page-1" id="Jml--mJH8CmxYNdWOXzf">
+    <mxGraphModel dx="2028" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Etui99GPOCNA51-UdNgJ-84" edge="1" parent="1" source="pQthvljHz9mI5g8oAD3s-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQthvljHz9mI5g8oAD3s-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Recomendaciones directas de precio" vertex="1">
+          <mxGeometry height="50" width="110" x="640" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="pQthvljHz9mI5g8oAD3s-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Conjoint" vertex="1">
+          <mxGeometry height="40" width="90" x="16" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-114" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Extrapolación al catálogo del centro" vertex="1">
+          <mxGeometry height="60" width="100" x="897" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-113" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Extrapolación a otros PdV" vertex="1">
+          <mxGeometry height="50" width="100" x="897" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Proceso de ingesta de los resultados" vertex="1">
+          <mxGeometry height="80" width="100" x="118" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-72" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Cálculo de las elasticidades&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="100" x="240" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-19" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Etui99GPOCNA51-UdNgJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Etui99GPOCNA51-UdNgJ-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="106" y="359.5" as="sourcePoint" />
+            <mxPoint x="136" y="359.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-21" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Etui99GPOCNA51-UdNgJ-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="218" y="359.5" as="sourcePoint" />
+            <mxPoint x="238" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Puntos de venta comparables" vertex="1">
+          <mxGeometry height="80" width="100" x="772" y="418" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-23" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Referencias comparables" vertex="1">
+          <mxGeometry height="80" width="100" x="773" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="873" y="359.5" as="sourcePoint" />
+            <mxPoint x="898" y="359.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="872" y="457.5" as="sourcePoint" />
+            <mxPoint x="897" y="457.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-31" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-22" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="819" y="430" as="sourcePoint" />
+            <mxPoint x="822" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-69" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-95" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="579" />
+              <mxPoint x="110" y="890.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Transaccional" vertex="1">
+          <mxGeometry height="40" width="90" x="14" y="559" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-43" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="619" as="sourcePoint" />
+            <mxPoint x="407" y="619" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-90" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-53" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Ingesta de fuentes de contextualización" vertex="1">
+          <mxGeometry height="81" width="80" x="247" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-60" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#6a00ff;" value="Tráfico" vertex="1">
+          <mxGeometry height="40" width="60" x="157" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-64" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#6a00ff;" value="Calendario promocional" vertex="1">
+          <mxGeometry height="40" width="74" x="223" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-65" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#6a00ff;" value="Calendario vacacional" vertex="1">
+          <mxGeometry height="40" width="60" x="307" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-66" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#6a00ff;" value="Clima" vertex="1">
+          <mxGeometry height="40" width="60" x="377" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-87" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-67" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Modelización" vertex="1">
+          <mxGeometry height="81" width="80" x="247" y="538" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-73" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Elasticidades" vertex="1">
+          <mxGeometry height="50" width="80" x="370" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-74" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="pQthvljHz9mI5g8oAD3s-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-71" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Interpolación del precio optimo" vertex="1">
+          <mxGeometry height="80" width="100" x="470" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-80" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-96" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Elasticidades" vertex="1">
+          <mxGeometry height="50" width="80" x="367" y="554" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-83" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-79" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Interpolación del precio optimo" vertex="1">
+          <mxGeometry height="80" width="100" x="520" y="539" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-112" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Recomendación de precio" vertex="1">
+          <mxGeometry height="50" width="110" x="640" y="553.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="si el modelo&amp;nbsp;&lt;div&gt;es aceptable&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="447" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="si la referencia&amp;nbsp;&lt;div&gt;es modelizable&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="130" y="579" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-98" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-93" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Evaluación de una subida fija" vertex="1">
+          <mxGeometry height="81" width="80" x="530" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="si la referencia no es modelizable o no hay ningún modelo aceptable" vertex="1">
+          <mxGeometry height="30" width="390" x="104" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-111" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Recomendación de precio" vertex="1">
+          <mxGeometry height="50" width="110" x="639" y="866" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-103" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="pQthvljHz9mI5g8oAD3s-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-105" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-102" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Referencia concreta" vertex="1">
+          <mxGeometry height="140" width="140" x="-280" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="si se ha realizado&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="-60" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="si no se ha realizado&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="70" x="-70" y="584" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-108" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;" value="&lt;h1 style=&quot;text-align: justify; margin-top: 0px;&quot;&gt;ETAPA 1 : CÁLCULO DE UNA RECOMENDACIÓN&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="50" width="1150" x="-50" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-109" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;" value="&lt;h1 style=&quot;text-align: justify; margin-top: 0px;&quot;&gt;ETAPA 2 : INCORPORACIÓN DEL BENCHMARK&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="50" width="780" x="1026" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-118" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-110" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Product matching" vertex="1">
+          <mxGeometry height="144" width="150" x="1185" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-119" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-116" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Ingesta del dato" vertex="1">
+          <mxGeometry height="81" width="80" x="1220" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-126" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-117" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Adecuación de la recomendación al benchmark" vertex="1">
+          <mxGeometry height="144" width="150" x="1370" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-123" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#6a00ff;" value="Web scrapping" vertex="1">
+          <mxGeometry height="40" width="60" x="1185" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-124" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-122" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#6a00ff;" value="Benchmark físico" vertex="1">
+          <mxGeometry height="40" width="60" x="1275" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-135" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-125" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Recomendación ajustada al benchmark" vertex="1">
+          <mxGeometry height="50" width="130" x="1550" y="502" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-127" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;" value="&lt;h1 style=&quot;text-align: justify; margin-top: 0px;&quot;&gt;ETAPA 3 : BUSSINESS SENSE&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="50" width="780" x="1860" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="XDH_y7qFWl5_8uEXnc67-12" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="XDH_y7qFWl5_8uEXnc67-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#e51400;" value="LAYER 2: Caps de variación" vertex="1">
+          <mxGeometry height="36" width="340" x="2080" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-136" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#e51400;" value="LAYER 1: Redondeo psicologico" vertex="1">
+          <mxGeometry height="36" width="340" x="2080" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#e51400;" value="LAYER N: Coherencia de gama" vertex="1">
+          <mxGeometry height="38" width="340" x="2080" y="584" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-141" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Recomendación final" vertex="1">
+          <mxGeometry height="50" width="130" x="2185" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-133" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;" value="&lt;h1 style=&quot;text-align: justify; margin-top: 0px;&quot;&gt;ETAPA 4 : VISUALIZACIÓN&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="50" width="780" x="2510" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-139" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.515;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Etui99GPOCNA51-UdNgJ-140" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#3A5431;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#6d8764;" value="Dashboard de visualización de las recomendaciones" vertex="1">
+          <mxGeometry height="181" width="181" x="2800" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="XDH_y7qFWl5_8uEXnc67-13" edge="1" parent="1" source="XDH_y7qFWl5_8uEXnc67-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="XDH_y7qFWl5_8uEXnc67-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XDH_y7qFWl5_8uEXnc67-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#e51400;" value="LAYER 3: Mantenimiento de precio del KVI" vertex="1">
+          <mxGeometry height="38" width="340" x="2080" y="463" as="geometry" />
+        </mxCell>
+        <mxCell id="XDH_y7qFWl5_8uEXnc67-14" edge="1" parent="1" source="XDH_y7qFWl5_8uEXnc67-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XDH_y7qFWl5_8uEXnc67-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Recomendación individualizada" vertex="1">
+          <mxGeometry height="50" width="130" x="2185" y="517" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
