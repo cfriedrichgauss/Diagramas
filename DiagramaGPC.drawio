@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="Jml--mJH8CmxYNdWOXzf">
-    <mxGraphModel dx="2028" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,12 +76,14 @@
         <mxCell id="Etui99GPOCNA51-UdNgJ-69" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Etui99GPOCNA51-UdNgJ-95" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-93">
+        <mxCell id="Etui99GPOCNA51-UdNgJ-95" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="110" y="579" />
-              <mxPoint x="110" y="890.5" />
+              <mxPoint x="117" y="578.47" />
+              <mxPoint x="117" y="889.97" />
             </Array>
+            <mxPoint x="110.99999999999955" y="578.4699999999998" as="sourcePoint" />
+            <mxPoint x="537" y="889.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Etui99GPOCNA51-UdNgJ-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Transaccional" vertex="1">
@@ -175,7 +177,7 @@
           <mxGeometry height="81" width="80" x="530" y="850" as="geometry" />
         </mxCell>
         <mxCell id="Etui99GPOCNA51-UdNgJ-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="si la referencia no es modelizable o no hay ningún modelo aceptable" vertex="1">
-          <mxGeometry height="30" width="390" x="104" y="860" as="geometry" />
+          <mxGeometry height="30" width="390" x="111" y="862" as="geometry" />
         </mxCell>
         <mxCell id="Etui99GPOCNA51-UdNgJ-111" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-110">
           <mxGeometry relative="1" as="geometry" />
@@ -195,7 +197,7 @@
         <mxCell id="Etui99GPOCNA51-UdNgJ-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="si se ha realizado&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="60" x="-60" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="Etui99GPOCNA51-UdNgJ-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="si no se ha realizado&amp;nbsp;" vertex="1">
+        <mxCell id="Etui99GPOCNA51-UdNgJ-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="si no se ha realizado el conjoint ni extrapolado el resultado&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="70" x="-70" y="584" as="geometry" />
         </mxCell>
         <mxCell id="Etui99GPOCNA51-UdNgJ-108" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;" value="&lt;h1 style=&quot;text-align: justify; margin-top: 0px;&quot;&gt;ETAPA 1 : CÁLCULO DE UNA RECOMENDACIÓN&lt;/h1&gt;" vertex="1">
@@ -232,7 +234,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Etui99GPOCNA51-UdNgJ-122" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#6a00ff;" value="Benchmark físico" vertex="1">
-          <mxGeometry height="40" width="60" x="1275" y="820" as="geometry" />
+          <mxGeometry height="40" width="60" x="1290" y="820" as="geometry" />
         </mxCell>
         <mxCell id="Etui99GPOCNA51-UdNgJ-135" edge="1" parent="1" source="Etui99GPOCNA51-UdNgJ-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-129">
           <mxGeometry relative="1" as="geometry" />
@@ -276,7 +278,7 @@
         <mxCell id="XDH_y7qFWl5_8uEXnc67-13" edge="1" parent="1" source="XDH_y7qFWl5_8uEXnc67-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="XDH_y7qFWl5_8uEXnc67-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XDH_y7qFWl5_8uEXnc67-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#e51400;" value="LAYER 3: Mantenimiento de precio del KVI" vertex="1">
+        <mxCell id="XDH_y7qFWl5_8uEXnc67-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#e51400;" value="LAYER 3: Mantenimiento de precio del &quot;producto gancho&quot;" vertex="1">
           <mxGeometry height="38" width="340" x="2080" y="463" as="geometry" />
         </mxCell>
         <mxCell id="XDH_y7qFWl5_8uEXnc67-14" edge="1" parent="1" source="XDH_y7qFWl5_8uEXnc67-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Etui99GPOCNA51-UdNgJ-130">
